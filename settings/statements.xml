@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+//
+// This is the place for your statements. The maximum
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special
+// characters, make sure, that you save this XML-file
+// as an UTF-8-document. White-space inbetween the
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node
+// consisting out of an opening and a closing tag. The
+// statement itself goes between this two tags.
+// The unique statement id is saved as an
+// attribute called 'id'. We have three exmaple
+// statements and we need therefore three statement-
+// nodes and one parent-node.
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+//
+// ===================================================
+//
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id = "1"> Een opleiding in de buurt van mijn woonplaats.</statement>
+  <statement id = "2"> Diversiteit in dagelijkse werkzaamheden.</statement>
+  <statement id = "3"> Werk waarin ik mijn creativiteit kwijt kan.</statement>
+  <statement id = "4"> Werk dat voornamelijk bestaat uit klinisch beredeneren.</statement>
+  <statement id = "5"> Het ervaren van de dankbaarheid van mijn patiënten.</statement>
+  <statement id = "6"> Werk dat ik mentaal aan kan.</statement>
+  <statement id = "7"> Werk met maatschappelijk impact.</statement>
+  <statement id = "8"> Een holistische benadering van patiënten.</statement>
+  <statement id = "9"> De mogelijkheid ook management taken op je te nemen.</statement>
+  <statement id = "10"> Werk waarin ik innovatief bezig kan zijn.</statement>
+  <statement id = "11"> Werken in een academische setting.</statement>
+  <statement id = "12"> De tijd en inspanning benodigd om een opleidingsplaats te bemachtigen.</statement>
+  <statement id = "13"> De mogelijkheid het beter te kunnen doen dan mijn peers.</statement>
+  <statement id = "14"> Maatschappelijke erkenning voor mijn werk krijgen.</statement>
+  <statement id = "15"> De mogelijkheid onderwijs te gaan geven.</statement>
+  <statement id = "16"> Merken dat het leven van mijn patiënten verandert door mijn handelen.</statement>
+  <statement id = "17"> Baanzekerheid.</statement>
+  <statement id = "18"> Focus op één orgaan(system).</statement>
+  <statement id = "19"> Werken in een multidisciplinair team.</statement>
+  <statement id = "20"> Langdurige patiëntrelaties.</statement>
+  <statement id = "21"> Een hoge (hiërarchische) positie verwerven.</statement>
+  <statement id = "22"> De werkomgeving (bijvoorbeeld in of buiten het ziekenhuis).</statement>
+  <statement id = "23"> Werk dat socio- psychologische aspecten omvat.</statement>
+  <statement id = "24"> Werken met een diverse patiënten samenstelling.</statement>
+  <statement id = "25"> Werken met een specifiek spectrum van ziektes.</statement>
+  <statement id = "26"> Werk voornamelijk bestaande uit praktische vaardigheden.</statement>
+  <statement id = "27"> Een hoog inkomen hebben.</statement>
+  <statement id = "28"> Passend bij mijn toekomstige privé leven.</statement>
+  <statement id = "29"> Werken met gelijkgezinden.</statement>
+  <statement id = "30"> Werken met multi-morbiditeit.</statement>
+  <statement id = "31"> De mening van mijn peers.</statement>
+  <statement id = "32"> Werk met de nieuwste technische apparaten.</statement>
+  <statement id = "33"> Een rolmodel in een specifieke specialisme.</statement>
+  <statement id = "34"> Werk zonder oproepdiensten.</statement>
+  <statement id = "35"> Een kortdurende opleiding.</statement>
+  <statement id = "36"> Focus op ondersteunen/ begeleiden van chronisch zieken.</statement>
+  <statement id = "37"> Focus op preventieve medische zorg.</statement>
+  <statement id = "38"> De goedkeuring van mijn ouders.</statement>
+  <statement id = "39"> De mogelijkheid om parttime te werken.</statement>
+  <statement id = "40"> Werk hebben dat mensen bewonderen.</statement>
+  <statement id = "41"> Werk dat me in staat stelt mijn studielening snel af te lossen.</statement>
+  <statement id = "42"> Patiënten te kunnen genezen.</statement>
+  <statement id = "43"> Opwindend werk met actie.</statement>
+  <statement id = "44"> Mogelijkheden tot levenslang leren.</statement>
+  <statement id = "45"> Een te behappen hoeveelheid werk.</statement>
+  <statement id = "46"> Werk dat ik fysiek aan kan.</statement>
+  <statement id = "47"> Een subspecialist zijn.</statement>
+  <statement id = "48"> Werk dat het nemen van risico’s omvat.</statement>
+  <statement id = "49"> Werk dat het respect van mijn naasten oplevert.</statement>
+  <statement id = "50"> Werken in een prestigieus specialisme.</statement>
+  <statement id = "51"> Mijn roeping volgen.</statement>
+  <statement id = "52"> Werk waarin ik autonoom medische beslissingen kan nemen.</statement>
+  <statement id = "53"> Mijn eerdere ervaring in een specialisme.</statement>
+  <statement id = "54"> Carrière perspectieven.</statement>
+  <statement id = "55"> Mogelijkheden om ook onderzoek te doen.</statement>
+  <statement id = "56"> De administratieve belasting.</statement>
+  <statement id = "57"> Werk dat op mijn kwaliteiten aansluit.</statement>
+  <statement id = "58"> Erkenning krijgen voor mijn excellente werk.</statement>
+  <statement id = "59"> Trots kunnen zijn op mijn carrière.</statement>
+  <statement id = "60"> De vrijheid hebben om mijn werk zelf te organiseren.</statement>
+  <statement id = "61"> Veel routine in het werk.</statement>
+  <statement id = "62"> Dagelijks contact met patiënten.</statement>
+</statements>
